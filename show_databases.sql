@@ -1,0 +1,3 @@
+USE LittleLemonDB;
+
+SHOW Databases;
